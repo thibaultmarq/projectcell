@@ -1,4 +1,6 @@
+
 using System.Collections;
+
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -15,6 +17,8 @@ public class sword : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
         rigidbody.position = player.;
+        */
     }
 }
